@@ -21,10 +21,5 @@ The **LLM Chat App** is an innovative AI-powered chatbot that extracts valuable 
 - **Semantic Search:** Utilizing the power of LangChain and FIAS vectorstore, the chatbot intelligently retrieves relevant sections of the PDF to provide precise answers.
 - **Customizable and Extensible:** Extend the capabilities of the chatbot by customizing the chat interface or integrating additional models.
 
-## 🚀 How to Use
-
-1. **Clone the Repository:** Start by cloning this repository to your local machine.
-
-
 
 
