@@ -2,7 +2,7 @@
 
 <h1 align="center">🤗💬 LLM Chat App - PDF-based Chatbot</h1>
 
-![LLM Chat App Screenshot](Capture.png)
+![LLM Chat App Screenshot](LLM_PDF_Chat_App/Capture.png)
 
 <p align="center">
   <em>Empower your PDFs with an AI-Powered Chatbot using Streamlit, LangChain, and OpenAI LLM Model!</em>
