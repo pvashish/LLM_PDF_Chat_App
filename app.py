@@ -28,6 +28,7 @@ with st.sidebar:
     ''')
     add_vertical_space(5)
     st.write('Made with 🍍 by [PineappleTales](https://pineappletales.medium.com/)')
+    st.write('⚠️⚠️ The app is under development, you might encounter some error while using it ⚠️⚠️')
 
 
 def main():
